@@ -1,0 +1,45 @@
+.container{
+    width: 100vmin;
+    height: 100vmin;
+    background-color: blue;
+}
+.header{
+    width: 100vmin;
+    height: 20vmin;
+    background-color: aqua;
+}
+.header.h1{
+    color: blueviolet;
+    text-align: center;
+    padding: 25px;
+    font-size: 50px;
+
+}
+#menubar{
+    width:100vmin;
+    height: 10vmin;
+    background-color: brown;
+}
+.maincontent{
+    width: 100vmin;
+    height: 60vmin;
+}
+.footer{
+    width: 100vmin;
+    height: 10vmin;
+    background-color: black;
+}
+li{
+    list-style-type: none;
+    float: left;
+}
+a{
+    color: #ffffff;
+    font-size: 25px;
+    padding: 25px;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    
+}
